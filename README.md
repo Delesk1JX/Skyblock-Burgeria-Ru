@@ -1,4 +1,4 @@
-# Skyblock-Burgeria-Ru
+# Skyblock Burgeria-Ru
 
 Информация: Перевод квестов в сборке Skyblock Burgeria (3.0 hotfix2) Ссылка на [сборку](https://www.curseforge.com/minecraft/modpacks/skyblock-burgeria)
 
